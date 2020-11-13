@@ -3,6 +3,7 @@ A newsletter for the API specification community, driven using this GitHub repos
 
 The current outline:
 
+- Editor - Showcase who pulled it together.
 - Specification Highlight - Highlight part of one specification.
 - Provider Highlight - Demonstrate one API provider using specification.
 - Service Provider Showcase - Showcase one service provider.
